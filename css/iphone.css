@@ -1,0 +1,10 @@
+.navigation{    background-size: auto 70%; background-color: #383d43;}
+.fy_conleft, .fy_conright{font-size: 3.5rem;}
+.magnet_small{width: 47%;}
+.magnet_big{width: 52%;}
+.photobox{width: 100%;}
+.masks .imgboxs>img{width: 100%;height: auto;}
+.masks .imgboxs{height: 40%;}
+.address>.foot{height: 20%;line-height: 30px;}
+.address>.foot>p{height: 25%;}
+.gsm>span{display: inline-block;width: 50%;margin: 0;}
